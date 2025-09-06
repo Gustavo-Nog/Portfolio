@@ -7,7 +7,6 @@ function Contato() {
   
   return (
     <>
-      <h1>Olá, Me Chamo Gustavo</h1>
       <ContatoButton/>
     </>
   );
