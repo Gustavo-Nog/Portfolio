@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 
 import Home from './pages/Home.jsx';
 import Contato from './pages/Contato.jsx';
-import './App.css'
+import './App.css';
 
 function App() {
   return (
