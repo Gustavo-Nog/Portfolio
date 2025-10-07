@@ -13,6 +13,9 @@ function Portfolio() {
 		<>
 			<Navbar />
 			<h1> Tela do portfolio</h1>
+            <SobreMim />
+            <Projetos />
+            <Contato />
 			<Footer />
 		</>
 	);
